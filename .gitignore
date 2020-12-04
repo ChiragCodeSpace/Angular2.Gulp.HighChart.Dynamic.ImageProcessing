@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Core.AngularJS2.Gulp.Demo/bin/Debug
+/src/Core.AngularJS2.Gulp.Demo/node_modules
+/src/Core.AngularJS2.Gulp.Demo/obj/Debug
